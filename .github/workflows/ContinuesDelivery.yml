@@ -1,9 +1,9 @@
 env:
-  repo: "https://github.com/farrukh90/artemis.git"
+  repo:        "https://github.com/farrukh90/artemis.git"
   app_version: "2.0.0"
-  project_id: "inqmipjiiptvbnxq"
+  project_id:  "inqmipjiiptvbnxq"
   repo_region: "us-central1"
-  app_name: "artemis"
+  app_name:    "artemis"
 
 name: ContinuesDelivery
 
